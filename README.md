@@ -103,8 +103,7 @@ The analysis involves using **SQL** to answer specific questions related to sale
 
 ---
 
-## 📂 **Repository Structure**
-├── datasets/ │ ├── customers.csv │ ├── products.csv │ ├── sales.csv │ ├── stores.csv │ ├── exchange_rates.csv ├── queries/ │ ├── customer_analysis.sql │ ├── product_analysis.sql │ ├── sales_trends.sql │ ├── store_performance.sql │ ├── currency_impact.sql │ ├── operational_efficiency.sql │ ├── advanced_analytics.sql │ ├── data_quality_validation.sql ├── 
+
 
 ## 📊 Technologies Used
 - SQL (MySQL)
