@@ -1,4 +1,4 @@
-# Case Study: Global Electronics Retailer - Data Analytics for Business Optimization
+# SQL Case Study: Global Electronics Retailer 
 
 ## 🛠️ **Business Objective**
 To optimize business operations and enhance customer satisfaction by analyzing global sales data. The goal is to uncover actionable insights across:
